@@ -102,7 +102,18 @@ content:
         description: | # this will include new lines to allow paragraphs
           •	Conduct correlation analysis to conclude glaxy Homogeneity from the Sloan Digital Sky Survey Dataset (SDSS) under Jesus Pando At DePaul University. 
           •	Utilizing  Poisson distributions,  Time-Series and Regression analysis to Analyze over 3.4 billion rows and 818gb of Image data using MATLAB, SQL and Python. 
-          •	SQL scripting for data cleaning Data preparation, cleaning  
+          •	SQL scripting for data cleaning Data preparation, cleaning 
+
+      - layout: right
+        title: RIMCO LLC, DePaul University
+        sub_title: Marketing Intern
+        caption: November 2018 - December 2018
+        #link: Link to company (optional)
+        #quote: >
+        #  Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+         •	Developed skills in networking, communications and general business knowledge. Practiced use and understanding of a foreign language, Spanish. Assisted departments in accomplishing year-end goals 
+ 
   - title: Education
     layout: list
     content:
