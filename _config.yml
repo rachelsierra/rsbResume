@@ -91,7 +91,18 @@ content:
           •	Researched bioinspired soft continuum robotic technologies through the Robotics and Medical Engineering (RoME) laboratory at DePaul University.
           •	Utilizing Periodic functions, 3D transformations  and liner algebra, created a novel model that controls a tetrahedral robot’s movement, reproducing the natural slithering of a snake’s movement with MATLAB and Python. 
           •	Created robotic and model acceptance criteria and physics movement simulations in MATLAB and PyBullett. 
-     
+      
+      - layout: right
+        title: Physics Department, DePaul University
+        sub_title: Data Science Researcher
+        caption: June 2019 - August 2019
+        #link: Link to company (optional)
+        #quote: >
+        #  Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          •	Conduct correlation analysis to conclude glaxy Homogeneity from the Sloan Digital Sky Survey Dataset (SDSS) under Jesus Pando At DePaul University. 
+          •	Utilizing  Poisson distributions,  Time-Series and Regression analysis to Analyze over 3.4 billion rows and 818gb of Image data using MATLAB, SQL and Python. 
+          •	SQL scripting for data cleaning Data preparation, cleaning  
   - title: Education
     layout: list
     content:
