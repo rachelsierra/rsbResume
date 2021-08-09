@@ -105,7 +105,7 @@ content:
           •	SQL scripting for data cleaning Data preparation, cleaning 
 
       - layout: right
-        title: RIMCO LLC, DePaul University
+        title: RIMCO LLC, San Juan, PR
         sub_title: Marketing Intern
         caption: November 2018 - December 2018
         #link: Link to company (optional)
@@ -113,7 +113,18 @@ content:
         #  Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
          •	Developed skills in networking, communications and general business knowledge. Practiced use and understanding of a foreign language, Spanish. Assisted departments in accomplishing year-end goals 
- 
+      
+      - layout: right
+        title: Lawrence Livermore National Laboratory
+        sub_title: Global Security Intern, Marketing Intern
+        caption: June 2017 - August 2017, June 2016 - August 2016
+        #link: Link to company (optional)
+        #quote: >
+        #  Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+         •	Completed computer science summer immersion internship focused on JavaScript, HTML, Python, and CSS. Chose as one of the two Alumni Ambassadors for our internship class.
+         •	Completed global and cyber security focused coding exercises, and challenges using Python, networking, and Bluetooth hacking programming tools. Learned about the importance of cybersecurity and focused on summers-end research project	
+
   - title: Education
     layout: list
     content:
