@@ -134,9 +134,9 @@ content:
         caption: August 2017 - June 2021
         #quote: >
          # Short institution or course description (optional)
-      - layout: bottom-right
-        description: | # this will include new lines to allow paragraphs
-          GPA: 3.63 (Cum Laude) Honors Program
+        - layout: bottom-right
+           description: | # this will include new lines to allow paragraphs
+           GPA: 3.63 (Cum Laude) Honors Program
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
