@@ -134,6 +134,7 @@ content:
         caption: August 2017 - June 2021
         #quote: >
          # Short institution or course description (optional)
+      - layout: right
         description: | # this will include new lines to allow paragraphs
           GPA: 3.63 (Cum Laude) Honors Program
   - title: A Little More About Me
@@ -141,7 +142,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       While I have a long history in STEM, I also have years of coursework in the Liberal Arts. I have maintained a love of writing and reading
       which I believe to be some of my strengths. Growing up, I thought having interests across the academic spectrum to be a weakness; I have found 
-      that it grants me a more dynamic outlook. 
+      that it grants me a more dynamic outlook and ability to communicate across the aisle. 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
