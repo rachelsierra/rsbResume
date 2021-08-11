@@ -128,15 +128,14 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: left
         title: DePaul University
         sub_title: BS Mathematical Sciences, concentration in Computational and Applied Math
         caption: August 2017 - June 2021
         #quote: >
          # Short institution or course description (optional)
-        - layout: top-left
-          description: | # this will include new lines to allow paragraphs
-          GPA: 3.63 (Cum Laude) Honors Program
+        description: | # this will include new lines to allow paragraphs
+        GPA: 3.63 (Cum Laude) Honors Program
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
