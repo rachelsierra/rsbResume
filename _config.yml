@@ -16,7 +16,7 @@ phone: 925-577-8412
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # Social links
@@ -51,7 +51,7 @@ linkedin_username: rachel-bagwell
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: desktop/rachelPic.jpeg #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Early Career Data Scientist with a B.S. in Applied Mathematics.  2+ years of academic data science research and  5+ years of CS internship experience.  Proficient in utilizing Python and  MATLAB to create and deliver predictive models utilizing billions of data points for applications in robotics, physics and cyber security. Aspiring to complete Azure Data Scientist Associate certificate with current practical knowledge of Machine Learning, Deep learning,  Data Visualization with Power BI and Apache Spark with Azure Databricks. Capable of creating, developing, testing, and employing data-intensive applications and models to translate business and functional qualifications into substantial deliverables. 
 #    - Lists
@@ -88,9 +88,9 @@ content:
         #quote: >
         #  Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          •	Researched bioinspired soft continuum robotic technologies through the Robotics and Medical Engineering (RoME) laboratory at DePaul University.
-          •	Utilizing Periodic functions, 3D transformations  and liner algebra, created a novel model that controls a tetrahedral robot’s movement, reproducing the natural slithering of a snake’s movement with MATLAB and Python. 
-          •	Created robotic and model acceptance criteria and physics movement simulations in MATLAB and PyBullett. 
+          •	Researched bioinspired soft continuum robotic technologies through the Robotics and Medical Engineering (RoME) laboratory at DePaul University under Dr. Isuru Godage.
+          Utilizing Periodic functions, 3D transformations  and liner algebra, creating novel gaits and movements that controls for tetrahedral robot using MATLAB and Python. 
+          Created robotic and model acceptance criteria and physics movement simulations in MATLAB and PyBullet. 
       
       - layout: right
         title: Physics Department, DePaul University
@@ -122,26 +122,26 @@ content:
         #quote: >
         #  Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-         •	Completed computer science summer immersion internship focused on JavaScript, HTML, Python, and CSS. Chose as one of the two Alumni Ambassadors for our internship class.
+         •	Completed computer science summer immersion internship focused on JavaScript, HTML, Python, and CSS. Awareded most improved during Capture the Flag tournament. 
          •	Completed global and cyber security focused coding exercises, and challenges using Python, networking, and Bluetooth hacking programming tools. Learned about the importance of cybersecurity and focused on summers-end research project	
 
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: DePaul University
         sub_title: BS Mathematical Sciences, concentration in Computational and Applied Math
         caption: August 2017 - June 2021
         #quote: >
          # Short institution or course description (optional)
-        - layout: right
+        - layout: left
            description: | # this will include new lines to allow paragraphs
            GPA: 3.63 (Cum Laude) Honors Program
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       While I have a long history in STEM, I also have years of coursework in the Liberal Arts. I have maintained a love of writing and reading
-      which I believe to be some of my strengths. Growing up, I thought having interests across the academic spectrum to be a weakness; I have found 
+      which I believe add to my strengths. Growing up, I thought having interests across the academic spectrum were a weakness; instead, I have found 
       that it grants me a more dynamic outlook and ability to communicate across the aisle. 
 # Footer
 footer_show_references: true
