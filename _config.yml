@@ -82,7 +82,7 @@ content:
     content:
       - layout: right
         title: RoME Lab,
-         DePaul University
+        title: DePaul University
         sub_title: Robotics Researcher
         caption: April 2021 - July 2021
         #link: Link to company (optional)
