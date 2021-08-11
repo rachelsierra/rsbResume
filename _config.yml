@@ -89,7 +89,7 @@ content:
         #  Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           •	Researched bioinspired soft continuum robotic technologies through the Robotics and Medical Engineering (RoME) laboratory at DePaul University under Dr. Isuru Godage.
-          Utilizing Periodic functions, 3D transformations  and liner algebra, creating novel gaits and movements that controls for tetrahedral robot using MATLAB and Python. 
+          Utilizing Periodic functions, 3D transformations  and liner algebra, creating novel gaits and for a tetrahedral robot’s movement using MATLAB and Python. 
           Created robotic and model acceptance criteria and physics movement simulations in MATLAB and PyBullet. 
       
       - layout: right
@@ -100,9 +100,9 @@ content:
         #quote: >
         #  Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          •	Conduct correlation analysis to conclude glaxy Homogeneity from the Sloan Digital Sky Survey Dataset (SDSS) under Jesús Pando At DePaul University. 
-          Utilizing  Poisson distributions,  Time-Series and Regression analysis to analyze over 3.4 billion rows and 818gb of Image data using MATLAB, SQL and Python. 
-          SQL scripting for data cleaning Data preparation, cleaning 
+          •	Conduct correlation analysis to conclude galaxy Homogeneity from the Sloan Digital Sky Survey Dataset (SDSS) under Jesús Pando At DePaul University. 
+          •	Utilizing Poisson distributions, Time-Series and Regression analysis to analyze over image data using MATLAB and Python. 
+          •	Data preparation, cleaning
 
       - layout: right
         title: RIMCO LLC, San Juan, PR
