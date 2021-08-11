@@ -51,7 +51,7 @@ linkedin_username: rachel-bagwell
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Desktop/rachelPic.jpeg #Directory of profile image (eg. images/profile.jpg)
+about_profile_image: Desktop/rachelPic.JPEG #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Early Career Data Scientist with a B.S. in Applied Mathematics.  2+ years of academic data science research and  5+ years of CS internship experience.  Proficient in utilizing Python and  MATLAB to create and deliver predictive models utilizing billions of data points for applications in robotics, physics and cyber security. Aspiring to complete Azure Data Scientist Associate certificate with current practical knowledge of Machine Learning, Deep learning,  Data Visualization with Power BI and Apache Spark with Azure Databricks. Capable of creating, developing, testing, and employing data-intensive applications and models to translate business and functional qualifications into substantial deliverables. 
 #    - Lists
@@ -100,9 +100,9 @@ content:
         #quote: >
         #  Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          •	Conduct correlation analysis to conclude glaxy Homogeneity from the Sloan Digital Sky Survey Dataset (SDSS) under Jesus Pando At DePaul University. 
-          •	Utilizing  Poisson distributions,  Time-Series and Regression analysis to Analyze over 3.4 billion rows and 818gb of Image data using MATLAB, SQL and Python. 
-          •	SQL scripting for data cleaning Data preparation, cleaning 
+          •	Conduct correlation analysis to conclude glaxy Homogeneity from the Sloan Digital Sky Survey Dataset (SDSS) under Jesús Pando At DePaul University. 
+          Utilizing  Poisson distributions,  Time-Series and Regression analysis to Analyze over 3.4 billion rows and 818gb of Image data using MATLAB, SQL and Python. 
+          SQL scripting for data cleaning Data preparation, cleaning 
 
       - layout: right
         title: RIMCO LLC, San Juan, PR
@@ -123,7 +123,7 @@ content:
         #  Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
          •	Completed computer science summer immersion internship focused on JavaScript, HTML, Python, and CSS. Awareded most improved during Capture the Flag tournament. 
-         •	Completed global and cyber security focused coding exercises, and challenges using Python, networking, and Bluetooth hacking programming tools. Learned about the importance of cybersecurity and focused on summers-end research project	
+         Completed global and cyber security focused coding exercises, and challenges using Python, networking, and Bluetooth hacking programming tools. Learned about the importance of cybersecurity and focused on summers-end research project	
 
   - title: Education
     layout: list
@@ -134,7 +134,8 @@ content:
         caption: August 2017 - June 2021
         #quote: >
          # Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
+        - layout: top-left
+          description: | # this will include new lines to allow paragraphs
           GPA: 3.63 (Cum Laude) Honors Program
   - title: A Little More About Me
     layout: text
