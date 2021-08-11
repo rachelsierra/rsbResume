@@ -125,17 +125,17 @@ content:
          •	Completed computer science summer immersion internship focused on JavaScript, HTML, Python, and CSS. Awareded most improved during Capture the Flag tournament. 
          •	Completed global and cyber security focused coding exercises, and challenges using Python, networking, and Bluetooth hacking programming tools. Learned about the importance of cybersecurity and focused on summers-end research project	
 
-  - title: Education
+   - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: top-right
         title: DePaul University
         sub_title: BS Mathematical Sciences, concentration in Computational and Applied Math
         caption: August 2017 - June 2021
         #quote: >
          # Short institution or course description (optional)
-           description: | # this will include new lines to allow paragraphs
-           GPA: 3.63 (Cum Laude) Honors Program
+        description: | # this will include new lines to allow paragraphs
+          GPA: 3.63 (Cum Laude) Honors Program
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
